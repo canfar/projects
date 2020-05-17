@@ -1,0 +1,3 @@
+[submodule "ngvs"]
+	path = ngvs
+	url = https://github.com/lauraferrarese/ngvsMap.git
